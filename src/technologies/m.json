@@ -998,6 +998,19 @@
     "scripts": "\\.marko(\\.js)?",
     "website": "https://markojs.com"
   },
+  "Masonry": {
+    "cats": [
+      59
+    ],
+    "description": "Masonry.js is a JavaScript library that makes it easy to add responsive Masonry layouts to items on a webpage.",
+    "dom": "[data-masonry]",
+    "js": {
+      "Masonry": ""
+    },
+    "scripts": "/masonry(?:\\.pkgd)?(?:\\.min)?\\.js",
+    "oss": true,
+    "website": "https://masonry.desandro.com"
+  },
   "Master Slider": {
     "cats": [
       7
